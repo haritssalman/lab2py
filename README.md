@@ -3,15 +3,15 @@ untuk langkahnya adalah sebagai berikut
 
 # Penginstalan Python
 1.Download Phthon di Python.org
-	![WhatsApp Image 2022-10-23 at 00 32 41 (1)](https://user-images.githubusercontent.com/115677440/197772206-2880705b-9b36-4c6b-a1bd-25fcacabe3a6.jpeg)
+	![WhatsApp Image 2022-10-23 at 00 32 41](https://user-images.githubusercontent.com/115677440/197786855-528103ef-f993-40ec-b44f-af582d3cfa42.jpeg)
 2.Klik pada tulisan download, lalu klik download Python 3.1.1.0
 	![download py (2)](https://user-images.githubusercontent.com/115677440/197772751-cab0b89e-e7c8-4470-b599-e3e63e22710e.png)
 3.Lalu tunggu hingga proses unduhan selesai
 4.Masuk ke dalam file manager, lalu cari file aplikasi Python
 5.Klik kanan, run as administrator
 6.Jangan lupa untuk menceklis bagian add python.exe to Path
+	![WhatsApp Image 2022-10-23 at 00 32 41 (1)](https://user-images.githubusercontent.com/115677440/197787068-820f775b-01b9-46c7-a0e1-0cc303d66a00.jpeg)
 7.Lalu pilih costumize installation
-	![WhatsApp Image 2022-10-23 at 00 32 42](https://user-images.githubusercontent.com/115677440/197773547-12bf983a-1b36-4430-8316-682e7951afcc.jpeg)
 8.Tunggu hingga proses download selesai.
 
 # Mengoprasikan Python
