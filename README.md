@@ -63,7 +63,9 @@ untuk langkahnya adalah sebagai berikut
    Begitu juga dengan perintah print ("Variable b =",b)
    
 5.Masuk pada operasi penggabungan nilai a dan b, Menggunakan perintah print ("hasil penggabungan {1}&{0}=%s".format (a,b) &(a+b))
-  maka hasilnya adalah 68. Karena
+  maka hasilnya adalah 68.
+  
+  Karena
   Print untuk mencetak komentar hasil penggabungan
   dimana array {1} = 8 dan array {0} = 6, lalu menggunakan logika AND yang bernilai {true} & {true},
   menggunakan tipe data s (String).format (a,b) dengan logika AND &(a+b))
